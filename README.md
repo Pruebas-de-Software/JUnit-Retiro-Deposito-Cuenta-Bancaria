@@ -2,6 +2,14 @@
 
 El código fue realizado en Java 8 utilizando JUnit 5.
 
+##Acerca de
+
+La tarea consiste en construir un aplicativo del "Blue Bank" que permita realizar 2 tipos de transacciones electrónicas:
+
+Retirar dinero desde cuenta
+Depositar dinero en cuenta
+Se debe tener en consideración que un usuario maneja dos tipos de cuentas (En 'CLP' y en 'USD').
+
 ## Preparación
 - Es necesario tener instalado [Gradle](https://gradle.org/)
 - Clonar el repositorio en la carpeta deseada, desde la consola:
