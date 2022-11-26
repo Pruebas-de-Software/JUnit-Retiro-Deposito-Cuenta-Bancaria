@@ -2,7 +2,7 @@
 
 El código fue realizado en Java 8 utilizando JUnit 5.
 
-##Acerca de
+## Acerca de
 
 La tarea consiste en construir un aplicativo del "Blue Bank" que permita realizar 2 tipos de transacciones electrónicas:
 
